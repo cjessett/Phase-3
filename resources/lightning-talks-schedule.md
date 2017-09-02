@@ -42,6 +42,6 @@ Tuesday AM
 - Talk 4: Greg
 
 Wednesday AM
-- Talk 1: Erik
+- Talk 1: Erik - Sorcery
 - Talk 2: Dillon
 - Talk 3: Gabriel
