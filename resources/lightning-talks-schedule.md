@@ -37,7 +37,7 @@ Monday AM
 
 Tuesday AM
 - Talk 1: Jim
-- Talk 2: Michael
+- Talk 2: Michael - Paper Clip
 - Talk 3: Dan K
 - Talk 4: Greg
 
