@@ -44,4 +44,4 @@ Tuesday AM
 Wednesday AM
 - Talk 1: Erik - Sorcery
 - Talk 2: Dillon
-- Talk 3: Gabriel
+- Talk 3: Gabriel - Coffeescript !!! (It has coffee in the name)
