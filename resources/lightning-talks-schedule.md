@@ -30,7 +30,7 @@ Thursday AM
 [Gemsy Talk Topics List](./gemsy_talk_topics.md)
 
 Monday AM
-- Talk 1: George
+- Talk 1: George - Boubon...(It has bourbon in the name...)
 - Talk 2: Ravi
 - Talk 3: Josh
 - Talk 4: Dan D
