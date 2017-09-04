@@ -33,7 +33,7 @@ Monday AM
 - Talk 1: George - Boubon...(It has bourbon in the name...)
 - Talk 2: Ravi
 - Talk 3: Josh
-- Talk 4: Dan D
+- Talk 4: Dan D - CanCan (It has can in the name)
 
 Tuesday AM
 - Talk 1: Jim
