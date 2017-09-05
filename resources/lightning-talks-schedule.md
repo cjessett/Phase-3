@@ -36,7 +36,7 @@ Monday AM
 - Talk 4: Dan D - CanCan (It has can in the name)
 
 Tuesday AM
-- Talk 1: Jim
+- Talk 1: Jim - Firebase
 - Talk 2: Michael - Paperclip?  (It has paper in the name)
 - Talk 3: Dan K
 - Talk 4: Greg - Resque (It doesn't have much in the name as far as I can see. Maybe it's kind of a rorschach)
