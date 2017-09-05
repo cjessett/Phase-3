@@ -39,7 +39,7 @@ Tuesday AM
 - Talk 1: Jim
 - Talk 2: Michael - Paperclip?  (It has paper in the name)
 - Talk 3: Dan K
-- Talk 4: Greg
+- Talk 4: Greg - Resque (It doesn't have much in the name as far as I can see. Maybe it's kind of a rorschach)
 
 Wednesday AM
 - Talk 1: Erik - Sorcery
