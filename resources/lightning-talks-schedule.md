@@ -34,12 +34,12 @@ Tuesday PM
 - Talk 2: Michael - Paperclip?  (It has paper in the name)
 - Talk 3: George - Docker (It doesn't have bourbon in the name but is super useful)
 - Talk 4: Dan D - CanCan (It has can in the name)
-- Talk 5: Greg - Resque (It doesn't have much in the name as far as I can see. Maybe it's kind of a rorschach)
+- Talk 5: Ravi
 
 Wednesday AM
 - Talk 1: Erik - Sorcery
 - Talk 2: Dillon
-- Talk 3: Ravi
+- Talk 3: Greg - Resque (It doesn't have much in the name as far as I can see. Maybe it's kind of a rorschach)
 - Talk 4: Josh
 - Talk 5: Dan K
 - Talk 6: Gabriel - Coffeescript !!! (It has coffee in the name)
