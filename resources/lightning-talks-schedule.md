@@ -41,5 +41,5 @@ Wednesday AM
 - Talk 2: Dillon
 - Talk 3: Greg - Resque (It doesn't have much in the name as far as I can see. Maybe it's kind of a rorschach)
 - Talk 4: Josh
-- Talk 5: Dan K
+- Talk 5: Dan K - two.js( It has two in the name which sounds simple. Then it adds a .js which sounds like me crying)
 - Talk 6: Gabriel - Coffeescript !!! (It has coffee in the name)
