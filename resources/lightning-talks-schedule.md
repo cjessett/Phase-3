@@ -29,7 +29,7 @@ Thursday AM
 
 [Gemsy Talk Topics List](./gemsy_talk_topics.md)
 
-Tuesday AM
+Tuesday PM
 - Talk 1: Jim - Firebase
 - Talk 2: Michael - Paperclip?  (It has paper in the name)
 - Talk 3: George - Docker (It doesn't have bourbon in the name but is super useful)
