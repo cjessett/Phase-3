@@ -34,7 +34,7 @@ Tuesday PM
 - Talk 2: Michael - Paperclip?  (It has paper in the name)
 - Talk 3: George - Docker (It doesn't have bourbon in the name but is super useful)
 - Talk 4: Dan D - CanCan (It has can in the name)
-- Talk 5: Ravi
+- Talk 5: Ravi - RuboCop (I intentionally misspelled Robocop)
 
 Wednesday AM
 - Talk 1: Erik - Sorcery
