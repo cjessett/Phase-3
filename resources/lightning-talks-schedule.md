@@ -29,19 +29,17 @@ Thursday AM
 
 [Gemsy Talk Topics List](./gemsy_talk_topics.md)
 
-Monday AM
-- Talk 1: George - Docker (It doesn't have bourbon in the name but is super useful)
-- Talk 2: Ravi
-- Talk 3: Josh
-- Talk 4: Dan D - CanCan (It has can in the name)
-
 Tuesday AM
 - Talk 1: Jim - Firebase
 - Talk 2: Michael - Paperclip?  (It has paper in the name)
-- Talk 3: Dan K
-- Talk 4: Greg - Resque (It doesn't have much in the name as far as I can see. Maybe it's kind of a rorschach)
+- Talk 3: George - Docker (It doesn't have bourbon in the name but is super useful)
+- Talk 4: Dan D - CanCan (It has can in the name)
+- Talk 5: Greg - Resque (It doesn't have much in the name as far as I can see. Maybe it's kind of a rorschach)
 
 Wednesday AM
 - Talk 1: Erik - Sorcery
 - Talk 2: Dillon
-- Talk 3: Gabriel - Coffeescript !!! (It has coffee in the name)
+- Talk 3: Ravi
+- Talk 4: Josh
+- Talk 5: Dan K
+- Talk 6: Gabriel - Coffeescript !!! (It has coffee in the name)
